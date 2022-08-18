@@ -1,0 +1,11 @@
+setup.py
+src/repositories/__init__.py
+src/repositories.egg-info/PKG-INFO
+src/repositories.egg-info/SOURCES.txt
+src/repositories.egg-info/dependency_links.txt
+src/repositories.egg-info/requires.txt
+src/repositories.egg-info/top_level.txt
+src/repositories/interfaces/__init__.py
+src/repositories/interfaces/repository.py
+src/repositories/local/__init__.py
+src/repositories/local/local_repository.py
